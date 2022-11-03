@@ -29,13 +29,13 @@ Each directory has example code related with the topic and a README file with in
 6) https://blog.gruntwork.io/how-to-use-terraform-as-a-team-251bc1104973
 7) https://blog.gruntwork.io/terragrunt-how-to-keep-your-terraform-code-dry-and-maintainable-f61ae06959d8
 
-Yevgeniy Brikman (@brikis89): [Terraform up & Running](https://www.terraformupandrunning.com/)
+Yevgeniy Brikman ([@brikis89](https://github.com/brikis98)): [Terraform up & Running](https://www.terraformupandrunning.com/)
 
 
 ## Tools 
 
-[terraform.io](https://terraform.io)
-[terragrunt](https://terragrunt.gruntwork.io)
-[tfenv](https://github.com/tfutils/tfenv)
-[tgenv](https://github.com/cunymatthieu/tgenv)
-[terraform-docs](https://terraform-docs.io/)
+[terraform.io](https://terraform.io)  
+[terragrunt](https://terragrunt.gruntwork.io)  
+[tfenv](https://github.com/tfutils/tfenv)  
+[tgenv](https://github.com/cunymatthieu/tgenv)  
+[terraform-docs](https://terraform-docs.io/)        
